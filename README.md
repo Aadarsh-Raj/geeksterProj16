@@ -1,6 +1,6 @@
 # geeksterProj16
 
-Hosted Link ->https://aadarsh-raj.github.io/geeksterProj16/htmlpart/index.html <br>
+Hosted Link ->https://aadarsh-raj.github.io/geeksterProj16/htmlfile/index.html <br>
 HTML part<br>
 <img width="491" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj16/assets/74525154/94266260-08d3-4531-a7b6-1a5adeaec3cb">
 
